@@ -11,3 +11,7 @@ Next, install my cask:
 
   `brew install --cask --force --no-quarantine grayscale`
   
+To uninstall, use the command:
+
+  `brew uninstall --cask grayscale`
+  
