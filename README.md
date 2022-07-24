@@ -17,7 +17,8 @@ To uninstall, use the command:
   `brew uninstall --cask grayscale`
   
   
-  
+  <br>
+  <br>
   
   
   
