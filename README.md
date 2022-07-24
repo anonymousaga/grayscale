@@ -16,7 +16,14 @@ To uninstall, use the command:
 
   `brew uninstall --cask grayscale`
   
+  
+  
+  
+  
+  
+  
 
 
 If you like my apps, you can send me Bitcoin here: 3QGaKdQdDgcJbLPGCqDFNjZYEY8b26UghU
+
 Any amount is appreciated
