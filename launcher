@@ -1,4 +1,3 @@
 #!/bin/sh
-DIR=$(cd "$(dirname "$0")"; pwd)
-cd "$DIR" && cd ../Resources
-osascript Wait-tab.scpt
+cd "$(dirname "$0")" && cd ../Resources
+osascript Wait-tab.applescript
